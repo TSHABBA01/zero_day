@@ -1,1 +1,1 @@
-*This file is in mandatory projects*
+vagrant directory
